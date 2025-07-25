@@ -72,12 +72,7 @@ Refactor this codebase to improve its quality, security, and maintainability. Th
 - Ensure the API remains functional
 - Write at least a few tests for critical functionality
 
-### What NOT to Do
-- Don't add new features or endpoints
-- Don't spend time on UI/frontend
-- Don't over-engineer the solution
-- Don't aim for 100% test coverage
-- Don't create extensive documentation beyond explaining your changes
+
 
 ## Submission
 
@@ -93,7 +88,6 @@ Refactor this codebase to improve its quality, security, and maintainability. Th
 1. Create a new git repository with your solution
 2. Include all necessary files to run the application
 3. Ensure `python app.py` still works after setup
-4. Share the repository link on https://forms.gle/gpaV5LW5boDFk7uT6
 
 ## Evaluation Criteria
 
@@ -104,17 +98,3 @@ We will evaluate your submission based on:
 - Pragmatic decision-making
 - Clear communication of changes
 
-## AI Usage Policy
-
-You are permitted to use AI assistants (ChatGPT, GitHub Copilot, etc.) as you would any other tool. If you use AI significantly, please note in your CHANGES.md:
-- Which tools you used
-- What you used them for
-- Any AI-generated code you modified or rejected
-
-## Questions?
-
-If you have questions about the requirements, please email [anand@retainsure.com] within the first 30 minutes of starting.
-
----
-
-Remember: We're not looking for perfection. We want to see how you approach real-world code problems, prioritize improvements, and communicate your decisions.
